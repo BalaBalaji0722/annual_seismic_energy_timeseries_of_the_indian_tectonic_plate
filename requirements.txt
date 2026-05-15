@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+basemap
+basemap-data-hires
+jupyter
+notebook
